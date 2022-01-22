@@ -1,0 +1,7 @@
+  <servlet>
+    <servlet-name>Login</servlet-name>
+    <servlet-class>src.main.java.servlet.UserController.java</servlet-class>
+    <load-on-startup>1</load-on-startup>
+    <init-param>
+    </init-param>
+  </servlet>
